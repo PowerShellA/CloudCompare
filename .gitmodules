@@ -30,3 +30,7 @@
 	path = plugins/core/Standard/q3DMASC
 	url = https://github.com/dgirardeau/q3DMASC.git
 	branch = master
+[submodule "plugins/CClivoxLOAM"]
+	path = plugins/CClivoxLOAM
+	url = https://github.com/iAaronLau/CCLivoxLOAM.git
+	branch = master
