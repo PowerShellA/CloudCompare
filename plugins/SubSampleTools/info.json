@@ -1,0 +1,24 @@
+{
+	"type" : "Standard",
+	"name" : "批量下采样工具",
+	"icon" : ":/CC/plugin/SubSampleTools/images/icon.png",
+	"description": "先打开点云，选中点云，点击下采样，选择保存位置。只支持2048/4096",
+	"authors" : [
+		{
+			"name" : "ShouyueLiu",
+			"email" : "iaaronlau@foxmail.com"
+		}
+	],
+	"maintainers" : [
+		{
+			"name" : "ShouyueLiu",
+			"email" : "iaaronlau@foxmail.com"
+		}
+	],
+	"references" : [
+		{
+			"text" : "CloudCompare Site",
+			"url" : "https://www.cloudcompare.org/"
+		}
+	]
+}

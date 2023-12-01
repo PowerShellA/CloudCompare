@@ -1,0 +1,24 @@
+{
+	"type" : "Standard",
+	"name" : "批量下采样工具2-递归版本",
+	"icon" : ":/CC/plugin/SubSampleTools2/images/icon.png",
+	"description": "选择保存位置，下采样的文件保存至源文件同级目录。",
+	"authors" : [
+		{
+			"name" : "ShouyueLiu",
+			"email" : "iaaronlau@qq.com"
+		}
+	],
+	"maintainers" : [
+		{
+			"name" : "ShouyueLiu",
+			"email" : "iaaronlau@qq.com"
+		}
+	],
+	"references" : [
+		{
+			"text" : "CloudCompare Site",
+			"url" : "https://www.cloudcompare.org/"
+		}
+	]
+}
